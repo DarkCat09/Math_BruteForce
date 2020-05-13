@@ -1,2 +1,2 @@
-# Math_BruteForce
+# Math BruteForce
 My scripts on Python for Cracking Mathematical expressions :)
